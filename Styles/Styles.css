@@ -70,6 +70,14 @@ header {
     transition: 0.3s ease;
 }
 
+.logo_project{
+    margin-left: 18rem;
+    margin-top: 2rem;
+    top: 3rem;
+    width: 10vw;
+    cursor: pointer;
+}
+
 .logo:hover {
     transform: scale(1.1);
 }
